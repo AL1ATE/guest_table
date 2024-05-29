@@ -1,4 +1,4 @@
-Проект table_guests.
+Проект table_guest.
 - Проект написан при помощи фреймворка Laravel при использовании PHP 8.2.
 - Используется реляционная база данных SQLite (/database/database.sqlite).
 - Написан контроллер GuestController, в котором лежат все нужные методы (/app/http/controllers/).
